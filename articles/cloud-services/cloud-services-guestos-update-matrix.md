@@ -151,6 +151,7 @@ Even though the [retirement policy for the Azure SDK][retire policy sdk] indicat
 
 | Guest OS family | Compatible SDK versions |
 | --- | --- |
+| 6 |Version 3.0+ |
 | 5 |Version 2.9.5.1+ |
 | 4 |Version 2.1+ |
 | 3 |Version 1.8+ |
